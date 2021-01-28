@@ -1,4 +1,6 @@
-﻿using System;
+// This server will listen to the telemetry data from the VT devices on the fleets. 
+// Raw data is parsed and stored in to the SQL Server Database for the external app services
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
