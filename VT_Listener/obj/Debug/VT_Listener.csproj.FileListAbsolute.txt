@@ -1,0 +1,6 @@
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\VT_Listener\VT_Listener\bin\Debug\VT_Listener.exe.config
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\VT_Listener\VT_Listener\bin\Debug\VT_Listener.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\VT_Listener\VT_Listener\bin\Debug\VT_Listener.pdb
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\VT_Listener\VT_Listener\obj\Debug\VT_Listener.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\VT_Listener\VT_Listener\obj\Debug\VT_Listener.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\VT_Listener\VT_Listener\obj\Debug\VT_Listener.csprojResolveAssemblyReference.cache

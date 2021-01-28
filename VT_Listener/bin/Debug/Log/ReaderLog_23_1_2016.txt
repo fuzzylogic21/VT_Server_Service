@@ -1,0 +1,14 @@
+[1/23/2016 2:37:58 PM] ==>  Waiting for a connection(with db)...-- 
+[1/23/2016 2:38:57 PM] ==>  Waiting for a connection(with db)...-- 
+[1/23/2016 2:39:30 PM] ==>  new client connected
+[1/23/2016 2:39:30 PM] ==>  HandleClient() Started.
+[1/23/2016 2:39:32 PM] ==>  HandleClient() Entered
+[1/23/2016 2:39:34 PM] ==>  tcpClient created
+[1/23/2016 2:39:37 PM] ==>  Network Stream Created
+[1/23/2016 2:39:43 PM] ==>  Date read from NetworkStream :$WTGPS,FP01,863071016658418,20160123143639,1,1,13.0035233,80.2101533,25.8,0.0,0,0.0,2,14.30,2|97,31,2727|14a3|404|40,AA|0,0,1,0.00,0,0,0035,5F#
+Processdata calling..
+[1/23/2016 2:40:31 PM] ==>  Processdata Completed
+[1/23/2016 2:40:31 PM] ==>  Client Closed...
+[1/23/2016 2:40:31 PM] ==>  HandleClient() Wait ing to complete...
+[1/23/2016 2:40:31 PM] ==>  Waiting for a connection(with db)...-- 
+[1/23/2016 2:51:39 PM] ==>  Waiting for a connection(with db)...-- 

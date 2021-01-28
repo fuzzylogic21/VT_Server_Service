@@ -1,0 +1,58 @@
+[1/20/2016 11:33:16 PM] ==>  Waiting for a connection(with db)...-- 
+[1/20/2016 11:33:21 PM] ==>  new client connected
+[1/20/2016 11:33:24 PM] ==>  HandleClient() Started.
+[1/20/2016 11:33:24 PM] ==>  HandleClient() Entered
+[1/20/2016 11:33:26 PM] ==>  tcpClient created
+[1/20/2016 11:33:27 PM] ==>  Network Stream Created
+[1/20/2016 11:33:57 PM] ==>  HandleClient() Wait ing to complete...
+[1/20/2016 11:33:57 PM] ==>  Waiting for a connection(with db)...-- 
+[1/20/2016 11:34:06 PM] ==>  new client connected
+[1/20/2016 11:34:08 PM] ==>  HandleClient() Started.
+[1/20/2016 11:34:09 PM] ==>  tcpClient created
+[1/20/2016 11:34:09 PM] ==>  Network Stream Created
+[1/20/2016 11:34:14 PM] ==>  Date read from NetworkStream :$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+Processdata calling..
+[1/20/2016 11:48:19 PM] ==>  Waiting for a connection(with db)...-- 
+[1/20/2016 11:48:24 PM] ==>  new client connected
+[1/20/2016 11:48:24 PM] ==>  HandleClient() Started.
+[1/20/2016 11:48:47 PM] ==>  HandleClient() Entered
+[1/20/2016 11:48:49 PM] ==>  tcpClient created
+[1/20/2016 11:48:49 PM] ==>  Network Stream Created
+[1/20/2016 11:48:55 PM] ==>  Date read from NetworkStream :$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+Processdata calling..
+[1/20/2016 11:55:58 PM] ==>  Waiting for a connection(with db)...-- 
+[1/20/2016 11:56:03 PM] ==>  new client connected
+[1/20/2016 11:56:03 PM] ==>  HandleClient() Started.
+[1/20/2016 11:56:10 PM] ==>  HandleClient() Entered
+[1/20/2016 11:56:10 PM] ==>  tcpClient created
+[1/20/2016 11:56:10 PM] ==>  Network Stream Created
+[1/20/2016 11:56:10 PM] ==>  Date read from NetworkStream :$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+Processdata calling..
+[1/20/2016 11:58:01 PM] ==>  Processdata Completed
+[1/20/2016 11:58:01 PM] ==>  Client Closed...
+[1/20/2016 11:58:01 PM] ==>  HandleClient() Wait ing to complete...
+[1/20/2016 11:58:01 PM] ==>  Waiting for a connection(with db)...-- 
+[1/20/2016 11:58:06 PM] ==>  new client connected
+[1/20/2016 11:58:11 PM] ==>  HandleClient() Started.
+[1/20/2016 11:58:11 PM] ==>  tcpClient created
+[1/20/2016 11:58:11 PM] ==>  Network Stream Created
+[1/20/2016 11:58:11 PM] ==>  Date read from NetworkStream :$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+Processdata calling..
+[1/20/2016 11:58:37 PM] ==>  Waiting for a connection(with db)...-- 
+[1/20/2016 11:58:40 PM] ==>  new client connected
+[1/20/2016 11:58:44 PM] ==>  HandleClient() Entered
+[1/20/2016 11:58:44 PM] ==>  tcpClient created
+[1/20/2016 11:58:44 PM] ==>  Network Stream Created
+[1/20/2016 11:58:44 PM] ==>  Date read from NetworkStream :$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+Processdata calling..
+[1/20/2016 11:58:53 PM] ==>  Processdata Completed
+[1/20/2016 11:58:53 PM] ==>  Client Closed...
+[1/20/2016 11:58:53 PM] ==>  HandleClient() Wait ing to complete...
+[1/20/2016 11:58:53 PM] ==>  Waiting for a connection(with db)...-- 
+[1/20/2016 11:59:25 PM] ==>  new client connected
+[1/20/2016 11:59:25 PM] ==>  HandleClient() Started.
+[1/20/2016 11:59:27 PM] ==>  HandleClient() Entered
+[1/20/2016 11:59:27 PM] ==>  tcpClient created
+[1/20/2016 11:59:27 PM] ==>  Network Stream Created
+[1/20/2016 11:59:27 PM] ==>  Date read from NetworkStream :$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+Processdata calling..

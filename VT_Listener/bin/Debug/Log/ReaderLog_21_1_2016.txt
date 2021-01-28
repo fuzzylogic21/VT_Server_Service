@@ -1,0 +1,245 @@
+[1/21/2016 12:01:21 AM] ==>  Processdata Completed
+[1/21/2016 12:01:21 AM] ==>  Client Closed...
+[1/21/2016 12:01:21 AM] ==>  HandleClient() Wait ing to complete...
+[1/21/2016 12:01:21 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:08:09 AM] ==>  new client connected
+[1/21/2016 12:08:09 AM] ==>  HandleClient() Started.
+[1/21/2016 12:08:19 AM] ==>  HandleClient() Entered
+[1/21/2016 12:08:26 AM] ==>  tcpClient created
+[1/21/2016 12:08:26 AM] ==>  Network Stream Created
+[1/21/2016 12:08:26 AM] ==>  Date read from NetworkStream :$WTLOGIN,FP01,863071016658400,WFP-300B,WFP300B,HW:3.1,SW:3.1u1,DB:,Aircel Cellular Ltd,46#
+$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+$WTGPS,FP01,863071016658400,20000106052945,0,0,0.0000000,0.0000000,0.0,0.0,0,0.0,0,13.61,0|0,0,0|0|0|0,GO|2,0,0,0.00,1,0,0016,02#
+Processdata calling..
+[1/21/2016 12:11:10 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:11:27 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:11:41 AM] ==>  new client connected
+[1/21/2016 12:11:41 AM] ==>  HandleClient() Started.
+[1/21/2016 12:11:45 AM] ==>  HandleClient() Entered
+[1/21/2016 12:11:45 AM] ==>  tcpClient created
+[1/21/2016 12:11:45 AM] ==>  Network Stream Created
+[1/21/2016 12:11:45 AM] ==>  Date read from NetworkStream :$WTLOGIN,FP01,863071016658400,WFP-300B,WFP300B,HW:3.1,SW:3.1u1,DB:,Aircel Cellular Ltd,46#
+$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+$WTGPS,FP01,863071016658400,20000106052945,0,0,0.0000000,0.0000000,0.0,0.0,0,0.0,0,13.61,0|0,0,0|0|0|0,GO|2,0,0,0.00,1,0,0016,02#
+Processdata calling..
+[1/21/2016 12:13:12 AM] ==>  Processdata Completed
+[1/21/2016 12:13:12 AM] ==>  Client Closed...
+[1/21/2016 12:13:12 AM] ==>  HandleClient() Wait ing to complete...
+[1/21/2016 12:13:12 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:14:27 AM] ==>  new client connected
+[1/21/2016 12:14:27 AM] ==>  HandleClient() Started.
+[1/21/2016 12:14:27 AM] ==>  HandleClient() Entered
+[1/21/2016 12:14:27 AM] ==>  tcpClient created
+[1/21/2016 12:14:27 AM] ==>  Network Stream Created
+[1/21/2016 12:14:27 AM] ==>  Date read from NetworkStream :$WTLOGIN,FP01,863071016658400,WFP-300B,WFP300B,HW:3.1,SW:3.1u1,DB:,Aircel Cellular Ltd,46#
+$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+$WTGPS,FP01,863071016658400,20000106052945,0,0,0.0000000,0.0000000,0.0,0.0,0,0.0,0,13.61,0|0,0,0|0|0|0,GO|2,0,0,0.00,1,0,0016,02#
+Processdata calling..
+[1/21/2016 12:14:33 AM] ==>  Processdata Completed
+[1/21/2016 12:14:33 AM] ==>  Client Closed...
+[1/21/2016 12:14:33 AM] ==>  HandleClient() Wait ing to complete...
+[1/21/2016 12:14:33 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:17:00 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:17:13 AM] ==>  new client connected
+[1/21/2016 12:17:13 AM] ==>  HandleClient() Started.
+[1/21/2016 12:17:13 AM] ==>  HandleClient() Entered
+[1/21/2016 12:17:13 AM] ==>  tcpClient created
+[1/21/2016 12:17:13 AM] ==>  Network Stream Created
+[1/21/2016 12:17:13 AM] ==>  Date read from NetworkStream :$WTLOGIN,FP01,863071016658400,WFP-300B,WFP300B,HW:3.1,SW:3.1u1,DB:,Aircel Cellular Ltd,46#
+$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+$WTGPS,FP01,863071016658400,20000106052945,0,0,0.0000000,0.0000000,0.0,0.0,0,0.0,0,13.61,0|0,0,0|0|0|0,GO|2,0,0,0.00,1,0,0016,02#
+Processdata calling..
+[1/21/2016 12:17:16 AM] ==>  Processdata Completed
+[1/21/2016 12:17:16 AM] ==>  Client Closed...
+[1/21/2016 12:17:16 AM] ==>  HandleClient() Wait ing to complete...
+[1/21/2016 12:17:16 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:18:12 AM] ==>  new client connected
+[1/21/2016 12:18:12 AM] ==>  HandleClient() Started.
+[1/21/2016 12:18:12 AM] ==>  HandleClient() Entered
+[1/21/2016 12:18:12 AM] ==>  tcpClient created
+[1/21/2016 12:18:12 AM] ==>  Network Stream Created
+[1/21/2016 12:18:12 AM] ==>  Date read from NetworkStream :$WTGPS,862118029226757,20.01.2016,13:49:03,1,9.9377167,78.1375250,140.7,9.59,208.00,0.320,1,1,0.0,0.0,0,0,0,0#
+Processdata calling..
+[1/21/2016 12:18:29 AM] ==>  Processdata Completed
+[1/21/2016 12:18:29 AM] ==>  Client Closed...
+[1/21/2016 12:18:29 AM] ==>  HandleClient() Wait ing to complete...
+[1/21/2016 12:18:29 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:19:09 AM] ==>  new client connected
+[1/21/2016 12:19:09 AM] ==>  HandleClient() Started.
+[1/21/2016 12:19:09 AM] ==>  HandleClient() Entered
+[1/21/2016 12:19:09 AM] ==>  tcpClient created
+[1/21/2016 12:19:09 AM] ==>  Network Stream Created
+[1/21/2016 12:19:09 AM] ==>  Date read from NetworkStream :$WTGPS,862118029226757,20.01.2016,13:49:03,1,9.9377167,78.1375250,140.7,9.59,208.00,0.320,1,1,0.0,0.0,0,0,0,0#
+Processdata calling..
+[1/21/2016 12:19:28 AM] ==>  Processdata Completed
+[1/21/2016 12:19:28 AM] ==>  Client Closed...
+[1/21/2016 12:19:28 AM] ==>  HandleClient() Wait ing to complete...
+[1/21/2016 12:19:28 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:19:31 AM] ==>  new client connected
+[1/21/2016 12:19:31 AM] ==>  HandleClient() Started.
+[1/21/2016 12:19:31 AM] ==>  tcpClient created
+[1/21/2016 12:19:31 AM] ==>  Network Stream Created
+[1/21/2016 12:19:31 AM] ==>  Date read from NetworkStream :$WTGPS,862118029226757,20.01.2016,13:49:03,1,9.9377167,78.1375250,140.7,9.59,208.00,0.320,1,1,0.0,0.0,0,0,0,0#
+Processdata calling..
+[1/21/2016 12:20:58 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:21:03 AM] ==>  new client connected
+[1/21/2016 12:21:03 AM] ==>  HandleClient() Started.
+[1/21/2016 12:21:03 AM] ==>  HandleClient() Entered
+[1/21/2016 12:21:03 AM] ==>  tcpClient created
+[1/21/2016 12:21:03 AM] ==>  Network Stream Created
+[1/21/2016 12:21:03 AM] ==>  Date read from NetworkStream :$WTGPS,862118029226757,20.01.2016,13:49:03,1,9.9377167,78.1375250,140.7,9.59,208.00,0.320,1,1,0.0,0.0,0,0,0,0#
+Processdata calling..
+[1/21/2016 12:21:31 AM] ==>  Processdata Completed
+[1/21/2016 12:21:32 AM] ==>  Client Closed...
+[1/21/2016 12:21:33 AM] ==>  HandleClient() Wait ing to complete...
+[1/21/2016 12:21:33 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:28:10 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:28:20 AM] ==>  new client connected
+[1/21/2016 12:28:20 AM] ==>  HandleClient() Started.
+[1/21/2016 12:28:20 AM] ==>  tcpClient created
+[1/21/2016 12:28:20 AM] ==>  Network Stream Created
+[1/21/2016 12:28:20 AM] ==>  Date read from NetworkStream :$WTLOGIN,FP01,863071016658400,WFP-300B,WFP300B,HW:3.1,SW:3.1u1,DB:,Aircel Cellular Ltd,46#
+$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+$WTGPS,FP01,863071016658400,20000106052945,0,0,0.0000000,0.0000000,0.0,0.0,0,0.0,0,13.61,0|0,0,0|0|0|0,GO|2,0,0,0.00,1,0,0016,02#
+Processdata calling..
+[1/21/2016 12:28:24 AM] ==>  Processdata Completed
+[1/21/2016 12:28:24 AM] ==>  Client Closed...
+[1/21/2016 12:28:24 AM] ==>  HandleClient() Wait ing to complete...
+[1/21/2016 12:28:24 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:28:55 AM] ==>  new client connected
+[1/21/2016 12:28:55 AM] ==>  HandleClient() Started.
+[1/21/2016 12:28:55 AM] ==>  HandleClient() Entered
+[1/21/2016 12:28:55 AM] ==>  tcpClient created
+[1/21/2016 12:28:55 AM] ==>  Network Stream Created
+[1/21/2016 12:28:55 AM] ==>  Date read from NetworkStream :$WTLOGIN,FP01,863071016658400,WFP-300B,WFP300B,HW:3.1,SW:3.1u1,DB:,Aircel Cellular Ltd,46#
+$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+$WTGPS,FP01,863071016658400,20000106052945,0,0,0.0000000,0.0000000,0.0,0.0,0,0.0,0,13.61,0|0,0,0|0|0|0,GO|2,0,0,0.00,1,0,0016,02#
+Processdata calling..
+[1/21/2016 12:28:59 AM] ==>  Processdata Completed
+[1/21/2016 12:28:59 AM] ==>  Client Closed...
+[1/21/2016 12:28:59 AM] ==>  HandleClient() Wait ing to complete...
+[1/21/2016 12:28:59 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:29:23 AM] ==>  new client connected
+[1/21/2016 12:29:23 AM] ==>  HandleClient() Started.
+[1/21/2016 12:29:23 AM] ==>  tcpClient created
+[1/21/2016 12:29:23 AM] ==>  Network Stream Created
+[1/21/2016 12:29:23 AM] ==>  Date read from NetworkStream :$WTLOGIN,FP01,863071016658400,WFP-300B,WFP300B,HW:3.1,SW:3.1u1,DB:,Aircel Cellular Ltd,46#
+$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+$WTGPS,FP01,863071016658400,20000106052945,0,0,0.0000000,0.0000000,0.0,0.0,0,0.0,0,13.61,0|0,0,0|0|0|0,GO|2,0,0,0.00,1,0,0016,02#
+Processdata calling..
+[1/21/2016 12:30:21 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:30:24 AM] ==>  new client connected
+[1/21/2016 12:30:24 AM] ==>  HandleClient() Started.
+[1/21/2016 12:30:24 AM] ==>  tcpClient created
+[1/21/2016 12:30:24 AM] ==>  Network Stream Created
+[1/21/2016 12:30:24 AM] ==>  Date read from NetworkStream :$WTLOGIN,FP01,863071016658400,WFP-300B,WFP300B,HW:3.1,SW:3.1u1,DB:,Aircel Cellular Ltd,46#
+$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+$WTGPS,FP01,863071016658400,20000106052945,0,0,0.0000000,0.0000000,0.0,0.0,0,0.0,0,13.61,0|0,0,0|0|0|0,GO|2,0,0,0.00,1,0,0016,02#
+Processdata calling..
+[1/21/2016 12:30:28 AM] ==>  Processdata Completed
+[1/21/2016 12:30:28 AM] ==>  Client Closed...
+[1/21/2016 12:30:28 AM] ==>  HandleClient() Wait ing to complete...
+[1/21/2016 12:30:28 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:30:56 AM] ==>  new client connected
+[1/21/2016 12:30:56 AM] ==>  HandleClient() Started.
+[1/21/2016 12:30:56 AM] ==>  HandleClient() Entered
+[1/21/2016 12:30:56 AM] ==>  tcpClient created
+[1/21/2016 12:30:56 AM] ==>  Network Stream Created
+[1/21/2016 12:30:56 AM] ==>  Date read from NetworkStream :$WTLOGIN,FP01,863071016658400,WFP-300B,WFP300B,HW:3.1,SW:3.1u1,DB:,Aircel Cellular Ltd,46#
+$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+$WTGPS,FP01,863071016658400,20000106052945,0,0,0.0000000,0.0000000,0.0,0.0,0,0.0,0,13.61,0|0,0,0|0|0|0,GO|2,0,0,0.00,1,0,0016,02#
+Processdata calling..
+[1/21/2016 12:30:56 AM] ==>  Processdata Completed
+[1/21/2016 12:30:56 AM] ==>  Client Closed...
+[1/21/2016 12:30:56 AM] ==>  HandleClient() Wait ing to complete...
+[1/21/2016 12:30:56 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:31:14 AM] ==>  new client connected
+[1/21/2016 12:31:14 AM] ==>  HandleClient() Started.
+[1/21/2016 12:31:14 AM] ==>  tcpClient created
+[1/21/2016 12:31:14 AM] ==>  Network Stream Created
+[1/21/2016 12:31:14 AM] ==>  Date read from NetworkStream :$WTLOGIN,FP01,863071016658400,WFP-300B,WFP300B,HW:3.1,SW:3.1u1,DB:,Aircel Cellular Ltd,46#
+$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+$WTGPS,FP01,863071016658400,20000106052945,0,0,0.0000000,0.0000000,0.0,0.0,0,0.0,0,13.61,0|0,0,0|0|0|0,GO|2,0,0,0.00,1,0,0016,02#
+Processdata calling..
+[1/21/2016 12:31:14 AM] ==>  Processdata Completed
+[1/21/2016 12:31:14 AM] ==>  Client Closed...
+[1/21/2016 12:31:14 AM] ==>  HandleClient() Wait ing to complete...
+[1/21/2016 12:31:14 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:31:15 AM] ==>  new client connected
+[1/21/2016 12:31:15 AM] ==>  HandleClient() Started.
+[1/21/2016 12:31:15 AM] ==>  tcpClient created
+[1/21/2016 12:31:15 AM] ==>  Network Stream Created
+[1/21/2016 12:31:15 AM] ==>  Date read from NetworkStream :$WTLOGIN,FP01,863071016658400,WFP-300B,WFP300B,HW:3.1,SW:3.1u1,DB:,Aircel Cellular Ltd,46#
+$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+$WTGPS,FP01,863071016658400,20000106052945,0,0,0.0000000,0.0000000,0.0,0.0,0,0.0,0,13.61,0|0,0,0|0|0|0,GO|2,0,0,0.00,1,0,0016,02#
+Processdata calling..
+[1/21/2016 12:31:15 AM] ==>  Processdata Completed
+[1/21/2016 12:31:15 AM] ==>  Client Closed...
+[1/21/2016 12:31:15 AM] ==>  HandleClient() Wait ing to complete...
+[1/21/2016 12:31:15 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:31:15 AM] ==>  new client connected
+[1/21/2016 12:31:15 AM] ==>  HandleClient() Started.
+[1/21/2016 12:31:15 AM] ==>  HandleClient() Entered
+[1/21/2016 12:31:15 AM] ==>  tcpClient created
+[1/21/2016 12:31:15 AM] ==>  Network Stream Created
+[1/21/2016 12:31:15 AM] ==>  Date read from NetworkStream :$WTLOGIN,FP01,863071016658400,WFP-300B,WFP300B,HW:3.1,SW:3.1u1,DB:,Aircel Cellular Ltd,46#
+$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+$WTGPS,FP01,863071016658400,20000106052945,0,0,0.0000000,0.0000000,0.0,0.0,0,0.0,0,13.61,0|0,0,0|0|0|0,GO|2,0,0,0.00,1,0,0016,02#
+Processdata calling..
+[1/21/2016 12:31:15 AM] ==>  Processdata Completed
+[1/21/2016 12:31:15 AM] ==>  Client Closed...
+[1/21/2016 12:31:15 AM] ==>  HandleClient() Wait ing to complete...
+[1/21/2016 12:31:15 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:31:15 AM] ==>  new client connected
+[1/21/2016 12:31:15 AM] ==>  HandleClient() Started.
+[1/21/2016 12:31:15 AM] ==>  tcpClient created
+[1/21/2016 12:31:15 AM] ==>  Network Stream Created
+[1/21/2016 12:31:15 AM] ==>  Date read from NetworkStream :$WTLOGIN,FP01,863071016658400,WFP-300B,WFP300B,HW:3.1,SW:3.1u1,DB:,Aircel Cellular Ltd,46#
+$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+$WTGPS,FP01,863071016658400,20000106052945,0,0,0.0000000,0.0000000,0.0,0.0,0,0.0,0,13.61,0|0,0,0|0|0|0,GO|2,0,0,0.00,1,0,0016,02#
+Processdata calling..
+[1/21/2016 12:31:15 AM] ==>  Processdata Completed
+[1/21/2016 12:31:15 AM] ==>  Client Closed...
+[1/21/2016 12:31:15 AM] ==>  HandleClient() Wait ing to complete...
+[1/21/2016 12:31:15 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:31:16 AM] ==>  new client connected
+[1/21/2016 12:31:16 AM] ==>  HandleClient() Started.
+[1/21/2016 12:31:16 AM] ==>  tcpClient created
+[1/21/2016 12:31:16 AM] ==>  Network Stream Created
+[1/21/2016 12:31:16 AM] ==>  Date read from NetworkStream :$WTLOGIN,FP01,863071016658400,WFP-300B,WFP300B,HW:3.1,SW:3.1u1,DB:,Aircel Cellular Ltd,46#
+$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+$WTGPS,FP01,863071016658400,20000106052945,0,0,0.0000000,0.0000000,0.0,0.0,0,0.0,0,13.61,0|0,0,0|0|0|0,GO|2,0,0,0.00,1,0,0016,02#
+Processdata calling..
+[1/21/2016 12:31:16 AM] ==>  Processdata Completed
+[1/21/2016 12:31:16 AM] ==>  Client Closed...
+[1/21/2016 12:31:16 AM] ==>  HandleClient() Wait ing to complete...
+[1/21/2016 12:31:16 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 12:32:37 AM] ==>  new client connected
+[1/21/2016 12:32:37 AM] ==>  HandleClient() Started.
+[1/21/2016 12:32:37 AM] ==>  HandleClient() Entered
+[1/21/2016 12:32:37 AM] ==>  tcpClient created
+[1/21/2016 12:32:37 AM] ==>  Network Stream Created
+[1/21/2016 12:32:37 AM] ==>  Date read from NetworkStream :$WTLOGIN,FP01,863071016658400,WFP-300B,WFP300B,HW:3.1,SW:3.1u1,DB:,Aircel Cellular Ltd,46#
+$WTGPS,FP01,863071016658400,20160120134556,1,1,13.0059450,80.2093683,32.6,0.0,0,0.0,0,14.14,1|94,22,641|1fa6|404|41,AA|0,0,0,0.00,0,0,0015,3C#
+$WTGPS,FP01,863071016658400,20000106052945,0,0,0.0000000,0.0000000,0.0,0.0,0,0.0,0,13.61,0|0,0,0|0|0|0,GO|2,0,0,0.00,1,0,0016,02#
+Processdata calling..
+[1/21/2016 12:32:37 AM] ==>  Processdata Completed
+[1/21/2016 12:32:37 AM] ==>  Client Closed...
+[1/21/2016 12:32:37 AM] ==>  HandleClient() Wait ing to complete...
+[1/21/2016 12:32:37 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 10:19:49 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 10:20:46 AM] ==>  new client connected
+[1/21/2016 10:20:46 AM] ==>  HandleClient() Started.
+[1/21/2016 10:20:46 AM] ==>  HandleClient() Entered
+[1/21/2016 10:20:46 AM] ==>  tcpClient created
+[1/21/2016 10:20:51 AM] ==>  Waiting for a connection(with db)...-- 
+[1/21/2016 10:21:00 AM] ==>  new client connected
+[1/21/2016 10:21:00 AM] ==>  HandleClient() Entered
+[1/21/2016 10:21:00 AM] ==>  tcpClient created
+[1/21/2016 10:21:04 AM] ==>  Network Stream Created
+[1/21/2016 10:21:08 AM] ==>  Date read from NetworkStream :$WTGPS,FP01,863071016658418,20160120203803,0,1,13.0033850,80.2100817,17.8,0.0,0,0.0,0,13.67,2|100,25,641|21af|404|41,AA|0,0,0,0.00,1,0,0072,00#
+Processdata calling..
+[1/21/2016 10:21:51 AM] ==>  Processdata Completed
+[1/21/2016 10:21:52 AM] ==>  Client Closed...
+[1/21/2016 10:21:53 AM] ==>  HandleClient() Wait ing to complete...
+[1/21/2016 10:21:53 AM] ==>  Waiting for a connection(with db)...-- 
